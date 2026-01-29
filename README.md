@@ -27,3 +27,10 @@ This repository is fully automated for zero-friction deployment.
    ```bash
    git clone [https://github.com/your-username/Twitter-Link-Prediction-Engine.git](https://github.com/your-username/Twitter-Link-Prediction-Engine.git)
    cd Twitter-Link-Prediction-Engine
+
+2. **Run the Pipeline**:
+Open and execute twitter_optimised.ipynb. The script is hard-coded to automatically:
+Install all required dependencies (PyTorch, NetworkX, Scikit-Learn).
+Download the raw Twitter-2010 dataset from SNAP.
+Execute the full preprocessing, training, and evaluation pipeline.
+Launch the interactive recommendation module.
