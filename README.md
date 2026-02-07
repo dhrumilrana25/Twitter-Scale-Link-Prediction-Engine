@@ -25,7 +25,7 @@ This repository is fully automated for zero-friction deployment.
 
 1. **Clone the Repo**:
    ```bash
-   git clone [https://github.com/your-username/Twitter-Link-Prediction-Engine.git](https://github.com/dhrumilrana25/Twitter-Link-Prediction-Engine.git)
+   git clone [https://github.com/dhrumilrana25/Twitter-Link-Prediction-Engine.git](https://github.com/dhrumilrana25/Twitter-Link-Prediction-Engine.git)
    cd Twitter-Link-Prediction-Engine
 
 2. **Run the Pipeline**:
